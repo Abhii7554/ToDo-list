@@ -1,0 +1,87 @@
+
+🚀 Project Title: StudyBuddy – AI-Powered Study Planner & Doubt Solver
+
+
+---
+
+📝 App Description:
+
+StudyBuddy is a smart, personalized study planner and doubt-solving assistant app for students. It helps users create dynamic study timetables, get AI-generated explanations for difficult topics, and track their academic progress. It integrates productivity and learning in one clean app.
+
+
+---
+
+🎯 Core Purpose:
+
+To help students plan their studies effectively, stay consistent, and instantly get help on any topic via AI or community support — reducing procrastination and improving results.
+
+
+---
+
+✅ Functional Requirements:
+
+1. User Registration & Profile Setup:
+
+Signup/Login with email or Google
+
+Select grade/stream/subjects
+
+
+2. Smart Study Planner:
+
+Input syllabus and exam dates
+
+AI auto-generates a daily/weekly timetable
+
+Dynamic rescheduling if a session is missed
+
+
+3. Progress Tracker:
+
+Mark topics as complete
+
+View visual progress (pie/bar charts)
+
+Earn streaks/badges for consistency
+
+
+4. Doubt Solver:
+
+Text-based doubt input with optional image upload
+
+GPT-based explanation generation
+
+Community discussion board for peer answers
+
+
+5. To-Do & Reminder System:
+
+Daily task checklist
+
+Smart push/email reminders before study sessions
+
+
+6. Gamification:
+
+XP points for completing tasks
+
+Leaderboard among friends (optional)
+
+Unlock achievements
+
+
+7. Offline Mode:
+
+Allow access to saved study plans and doubts even when offline
+
+
+8. Admin Dashboard (Optional):
+
+For teachers to assign tasks to a group
+
+Track overall class progress
+
+
+
+-
+
